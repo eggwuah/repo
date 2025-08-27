@@ -3,7 +3,7 @@
         "Author": "Eggwuah",
         "Name": "Eggwuah",
         "InternalName": "Eggwuah",
-        "AssemblyVersion": "1.12.1",
+        "AssemblyVersion": "1.12.2",
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/eggwuah/client",
@@ -16,8 +16,8 @@
         "Punchline": "You know what this is.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/eggwuah/client/releases/download/1.12.1/eggwuah_1_12_1.zip",
-        "DownloadLinkTesting": "https://github.com/eggwuah/client/releases/download/1.12.1/eggwuah_1_12_1.zip",
-        "DownloadLinkUpdate": "https://github.com/eggwuah/client/releases/download/1.12.1/eggwuah_1_12_1.zip"
+        "DownloadLinkInstall": "https://github.com/eggwuah/client/releases/download/1.12.2/eggwuah_1_12_2.zip",
+        "DownloadLinkTesting": "https://github.com/eggwuah/client/releases/download/1.12.2/eggwuah_1_12_2.zip",
+        "DownloadLinkUpdate": "https://github.com/eggwuah/client/releases/download/1.12.2/eggwuah_1_12_2.zip"
       }
 ]
